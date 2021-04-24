@@ -3,5 +3,5 @@
 <p>If you are willing to get to know me better then visit these websites 😄:</p>
 <ul>
   <li><a href='https://www.linkedin.com/in/teodor-tkaczyk-bba5871ab/'>My Linkedin profile</a></li>
-  <li><a href='https://www.linkedin.com/in/teodor-tkaczyk-bba5871ab/'>My personal website</a></li>
+  <li><a href='https://www.teodor-tkaczyk.com/'>My personal website</a></li>
 </ul>
